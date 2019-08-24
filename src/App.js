@@ -18,7 +18,7 @@ function App() {
     <div className="App">
 
       <FormComponent />
-      
+    
         {/* <StyleSheet primary = {true}/> */}
        {/* <NameList /> */}
        {/* <UserGreeting /> */}
@@ -40,7 +40,7 @@ function App() {
       
       {/* <Welcome name="srinivasan" age = "25"/> */}
       {/* <Welcome name="nivas" age = "26"/>  */}
-
+r
 
     </div>
   );
