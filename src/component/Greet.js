@@ -7,7 +7,7 @@ import React from 'react'
 
  const Test =()=>{
 
-    return <h1> Second functions </h1>
+    return <h1> Second functions this test </h1>
 }
 
 export {Greed,Test}
